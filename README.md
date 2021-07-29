@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+Live preview available at this link: https://mystifying-mahavira-548220.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
